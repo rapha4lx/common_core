@@ -8,14 +8,9 @@ Optimized for system with  less CPU and RAM.
 # Port Forwarding
 Create this rule in port forwarding in Virtual box. Settings >> Network >> Advanced >> Port Forwarding.
 Set port 80
-
 # Commands
 `sudo lighty-enable-mod fastcgi`
 Enable more performance to application web
 `sudo lighty-enable-mod fastcgi-php` Enable more performance to application based in PHP.
 `sudo service lighttpd force-reload` Force lighttpd restart
 
-# Aval Commands
-### Check Graphical interface
-`ls /usr/bin/*session`
-Check with exist only terminal interface

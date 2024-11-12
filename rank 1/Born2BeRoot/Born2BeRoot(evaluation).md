@@ -1,4 +1,4 @@
-# Check Graphics
+# Check Graphics Interface
 `ls /usr/bin/*session`
 # Check UFW
 `sudo ufw status`

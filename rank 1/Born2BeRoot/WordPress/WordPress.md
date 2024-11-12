@@ -1,6 +1,7 @@
 # What is?
 This is a system focused in creating any type of web page and content management.
 # How Install?
+For Run you need [[MariaDB]], [[Lighttpd]] and [[PHP]]
 using [[WGET]] in /var/www send a command
 `sudo wget https://wordpress.org/latest.zip`
 ### Decompress

@@ -1,5 +1,4 @@
 Is a manager of background processor. The processor is executed in the 
-
 # Command for manager task
 `sudo crontab -u root -e`
 # Commands

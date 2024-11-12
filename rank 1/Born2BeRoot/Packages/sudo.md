@@ -1,4 +1,6 @@
 config path `/etc/sudoers.d/sudo_config`
+# Install
+`sudo` [[apt]] `install sudo`
 
 > [!important] passwd_tries
 > is a number of password tries
