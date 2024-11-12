@@ -13,8 +13,12 @@ commands:
 `sudo mv wordpress/ html/`
 # Set Perms
 send a `sudo chmod -R 755 html`
--R is a recursive. include all objects in subdirectories.
+-R is a recursive. include all objects in sub-directories.
 4 is read
 2 is write
 1 is executable
 \*\*\* first is user, second is group and last is others
+# Config
+`cd /var/www/html`
+edit this file `nano wp-config.php`
+Change DB_NAME, DB_USER and DB_PASSWORD

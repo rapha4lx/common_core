@@ -2,7 +2,7 @@
 Is a web server, developed to be speed, secure and flexible and compatible with norms.
 Optimized for system with  less CPU and RAM.
 # Install
-sudo [[apt]] install lighttpd`
+`sudo` [[apt]] `install lighttpd`
 # Allow in Firewall
 `sudo ufw allow 80`
 # Port Forwarding
@@ -14,3 +14,8 @@ Set port 80
 Enable more performance to application web
 `sudo lighty-enable-mod fastcgi-php` Enable more performance to application based in PHP.
 `sudo service lighttpd force-reload` Force lighttpd restart
+
+# Aval Commands
+### Check Graphical interface
+`ls /usr/bin/*session`
+Check with exist only terminal interface
