@@ -1,5 +1,5 @@
 # First you need Read
-[[System]], [[apt]], [[monitoring.sh]], [[Crontab]] 
+[[System]], [[LVM]], [[apt]], [[monitoring.sh]], [[Crontab]] 
 # Diff inter apt and aptitude
 aptitude is a enchanced verion from apt. apt is a lower-level package manager and aptitude is a high-level package manager.
 aptitude is a abstraction of apt, aptitude have a terminal interface.

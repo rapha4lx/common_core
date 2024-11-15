@@ -5,7 +5,7 @@ Simple alternative to iptables and nftables
 `sudo` [[apt]] `install ufw`
 # Commands
 ###### Check if is running
-`which ssh`
+`which ufw`
 or
 `sudo service ufw status`
 or 

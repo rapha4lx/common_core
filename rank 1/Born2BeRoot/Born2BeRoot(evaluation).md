@@ -28,3 +28,5 @@ command: `hostmane`
 `lsblk`
 # Check sudo is installed
 `which sudo` or `sudo -V`
+# Change Current User Pass
+`passwd`
